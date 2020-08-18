@@ -19,8 +19,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}!
-To add me to your groups, [click here!](http://telegram.me/TheRealPhoenixBot?startgroup=botstart)
+Hi {}, my name is {thunder king}!
+To add me to your groups, [click here!](http://telegram.me/thunderking_bot?startgroup=botstart)
 
 You can find the list of available commands with /help
 """
